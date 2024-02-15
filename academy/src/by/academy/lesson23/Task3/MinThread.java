@@ -1,4 +1,4 @@
-package by.academy.lesson23.Task3; //
+package by.academy.lesson23.Task3; 
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package by.academy.lesson23;//
+package by.academy.lesson23;
 
 public class Main {
 

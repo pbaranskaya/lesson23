@@ -1,4 +1,4 @@
-package by.academy.lesson23; //
+package by.academy.lesson23; 
 
 import java.util.concurrent.TimeUnit;
 
